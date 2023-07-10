@@ -1,0 +1,52 @@
+   body{
+	background-color: white;
+	height: 100%
+	margin: 0px;
+}
+
+footer {
+	background-color: #34eb96;
+	display: flex;
+	justify-content: space-between;
+}
+img{
+	display: relative;
+	float: right;
+}
+a {
+	color: purple;
+}
+h5{
+	float: right;
+	}
+h6{
+float:right; 
+	}
+
+.Bro {
+		border-color: rgb(144,266,55);
+	}
+.open{
+	display: flex;
+	float: right;
+	justify-content: space-between;
+	width: 100%;
+	padding: 0px;
+}
+.down{
+	list-style: none;
+	margin-right: 5em;
+}
+.data{
+	list-style: none;
+	line-height: 3em;
+
+}
+.divide{
+	margin-left: -3em;
+}
+.data1{
+	display: relative;
+	
+}
+
